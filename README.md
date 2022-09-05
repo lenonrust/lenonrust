@@ -9,7 +9,7 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lenonrust/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="https://www.linkedin.com/in/lenonrust/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lenonrust/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="https://www.linkedin.com/in/lenonrust/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Stats:</h3>
