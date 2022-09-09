@@ -17,3 +17,5 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lenonrust&show_icons=true&locale=en" alt="lenonrust" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenonrust&" alt="lenonrust" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenonrust&show_icons=true&locale=en&layout=compact" alt="lenonrust" /></p>
