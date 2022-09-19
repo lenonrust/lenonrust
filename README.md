@@ -18,5 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lenonrust&theme=dark" alt="lenonrust" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenonrust&show_icons=true&locale=en&layout=compact&theme=dark" alt="lenonrust" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenonrust&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
