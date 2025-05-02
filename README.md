@@ -1,16 +1,25 @@
-<h1>Olá, sou Lenon Rust</h1>
-<h3>Desenvolvedor back-end Jr</h3>
+
+## Olá, eu sou o Lenon Rust 👋  
+### Desenvolvedor Back-End Jr
 
 - 🌎 Resido em Juiz de Fora - MG - Brasil  
 - 📫 Contato pessoal: **lenon.rust@gmail.com**
 
+
 ---
 
-<h3 align="left">Habilidades:</h3>
+
+### 📈 Estatísticas e Atividades Recentes:
+<p align="left">
+  <img src="https://img.shields.io/github/followers/lenonrust?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/lenonrust/github-readme-stats?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/lenonrust/github-readme-stats" alt="Last Commit" />
+  <img src="https://img.shields.io/github/languages/top/lenonrust/github-readme-stats" alt="Top Language" />
+  <img src="https://img.shields.io/github/license/lenonrust/github-readme-stats" alt="License" />
+</p>
 
 
 <p align="left">
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -75,8 +84,7 @@
 
 ---
 
-<h3 align="left">Social:</h3>
-
+### 📱 Social:
 <p align="left">
   <a href="https://www.linkedin.com/in/lenonrust/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="30" width="40" />
@@ -85,8 +93,7 @@
 
 ---
 
-<h3 align="left">Stats:</h3>
-
+### 📊 Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lenonrust&show_icons=true&locale=en&theme=dark" alt="lenonrust" />
 </p>
@@ -97,6 +104,4 @@
 
 <p>
   <img src="https://github-readme-stats-puce-psi-92.vercel.app/api/top-langs/?username=lenonrust&layout=compact&theme=dracula&count_private=true" alt="Top Langs" />
-</p>
-
 </p>
