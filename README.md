@@ -96,7 +96,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenonrust&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats-puce-psi-92.vercel.app/api/top-langs/?username=lenonrust&layout=compact&theme=dracula&count_private=true" alt="Top Langs" />
 </p>
 
 </p>
